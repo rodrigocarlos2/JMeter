@@ -1,0 +1,10 @@
+
+For install the system, run it:
+
+# apt-get install jmeter
+
+# apt install jmeter
+
+It is simple, you can before this installation run the command:
+
+# apt-get update
